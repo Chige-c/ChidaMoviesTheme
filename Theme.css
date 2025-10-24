@@ -1117,7 +1117,7 @@ a[href*="anidb.net"] {
 .pageTitleWithDefaultLogo,
 .pageTitleWithLogo {
   background-image: url(https://cdn.jsdelivr.net/gh/Chige-c/ChidaMoviesTheme/Logo/logo.png) !important;
-  font-size: 155% !important;
+  font-size: 105% !important;
 }
 #txtCustomCss,
 #txtLocalCustomCss {
@@ -3592,5 +3592,6 @@ layout-mobile .detailPagePrimaryContent {
      margin-top: -4.8em !important;
   }
 }
+
 
 
