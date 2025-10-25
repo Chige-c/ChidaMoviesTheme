@@ -432,7 +432,9 @@ opacity:100%!important
 #itemDetailPage .itemName.infoText.originalTitle {
   display: none;
 }
-
+.nameContainer {
+  color: rgba(var(--accent));
+}
 
 /*単一のエピソードのリンクバックタイトルにも同じことを行います*/
 #itemDetailPage .parentName > bdi:nth-child(1) {display: none;}
