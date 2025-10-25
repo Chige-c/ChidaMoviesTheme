@@ -61,9 +61,7 @@
 .backdrop-overlay {
   background-color: rgba(0, 0, 0, 0);
 }
-.backdrop-container {
-  filter: brightness(0.999);
-}
+
 
 .section0 .emby-scrollbuttons.padded-right {
    margin-top: -0.7em !important;
@@ -639,6 +637,7 @@
   display: none !important;
 } 
 }
+
 
 
 
