@@ -44,9 +44,7 @@ h4 {
 .button-link{
   color: rgba(0, 0, 0, 0.9) !important;
 }
-.layout-desktop.cardOverlayButton.cardOverlayButton-hover.itemAction.paper-icon-button-light.cardOverlayFab-primary {
-  background-color: rgba(0, 0, 0, 0.4) !important;
-}
+
 .mediaSourceIndicator {
   left: 0;
   top: 0;
@@ -430,15 +428,11 @@ opacity:100%!important
 }
 
 /*商品の詳細ページにロゴが表示されている場合は、商品のタイトルを非表示にします*/
-#itemDetailPage .itemName.infoText.parentNameLast > bdi:nth-child(1) {
-  display: none;
-}
+
 #itemDetailPage .itemName.infoText.originalTitle {
   display: none;
 }
-.hide+.detailPageWrapperContainer .itemName > bdi:nth-child(1) {
-  display: block !important;
-}
+
 
 /*単一のエピソードのリンクバックタイトルにも同じことを行います*/
 #itemDetailPage .parentName > bdi:nth-child(1) {display: none;}
