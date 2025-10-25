@@ -3107,6 +3107,7 @@ layout-mobile .detailPagePrimaryContent {
       margin-top: 0.2em !important;
       margin-left: -1.0em !important;
       width: 100% !important;
+      height: 12vh;
       }
     .listItem-content {
       margin: 0.5em;
@@ -3588,5 +3589,6 @@ layout-mobile .detailPagePrimaryContent {
      margin-top: -4.8em !important;
   }
 }
+
 
 
